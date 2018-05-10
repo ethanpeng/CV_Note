@@ -1,7 +1,10 @@
 ### OSVR CV Kalman Trace 流程
 
 [OSVR-Core\plugins\videobasedtracker\VideoBasedTracker.cpp](https://github.com/ethanpeng/OSVR-Core/blob/59405fc1b1a25aea051dfbba0be5171fa19b8b30/plugins/videobasedtracker/VideoBasedTracker.cpp)  
+VideoBasedTracker::processImage() {  
+// ...  
 [m_estimators[sensor]->EstimatePoseFromLeds()](https://github.com/ethanpeng/OSVR-Core/blob/59405fc1b1a25aea051dfbba0be5171fa19b8b30/plugins/videobasedtracker/VideoBasedTracker.cpp#L202)  
+}  
 
 [OSVR-Core\plugins\videobasedtracker\BeaconBasedPoseEstimator.cpp](https://github.com/ethanpeng/OSVR-Core/blob/59405fc1b1a25aea051dfbba0be5171fa19b8b30/plugins/videobasedtracker/BeaconBasedPoseEstimator.cpp)  
 BeaconBasedPoseEstimator::EstimatePoseFromLeds() → m_estimatePoseFromLeds()  
