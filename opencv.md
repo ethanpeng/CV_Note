@@ -37,6 +37,7 @@ set(OpenCV_DIR "/usr/local/opencv-3.1.0/share/OpenCV")
 project(test)
 find_package(OpenCV 3.1.0 REQUIRED)
 add_executable(test test.cpp)
+include_directories(${OpenCV_INCLUDE_DIRS})
 target_link_libraries(test ${OpenCV_LIBS})  
 ```
 用 opencv2.4.9, CMakeLists.txt  
@@ -47,5 +48,6 @@ set(OpenCV_DIR "/usr/local/opencv-2.4.9/share/OpenCV")
 project(test)
 find_package(OpenCV 2.4.9 REQUIRED)
 add_executable(test test.cpp)
+include_directories(${OpenCV_INCLUDE_DIRS})
 target_link_libraries(test ${OpenCV_LIBS})
 ```
