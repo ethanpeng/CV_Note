@@ -13,3 +13,4 @@ https://github.com/abreheret/icp-opencv
 [Gregjksmith/Iterative-Closest-Point](https://github.com/Gregjksmith/Iterative-Closest-Point)  
 [symao/libicp](https://github.com/symao/libicp)  
 [yorsh87/nicp](https://github.com/yorsh87/nicp)  
+[michaelwillett/Iterative-Closest-Point](https://github.com/michaelwillett/Iterative-Closest-Point)  
