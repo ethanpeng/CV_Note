@@ -8,3 +8,8 @@ surface_matching. Surface Matching
 [ICP 2d Ellipse](https://www.youtube.com/watch?v=tfckXoa-wRQ)  
 https://github.com/abreheret/icp-opencv  
 
+[ethz-asl/libpointmatcher](https://github.com/ethz-asl/libpointmatcher)  
+[adrelino/mv-lm-icp](https://github.com/adrelino/mv-lm-icp)  
+[Gregjksmith/Iterative-Closest-Point](https://github.com/Gregjksmith/Iterative-Closest-Point)  
+[symao/libicp](https://github.com/symao/libicp)  
+[yorsh87/nicp](https://github.com/yorsh87/nicp)  
