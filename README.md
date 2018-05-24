@@ -28,4 +28,12 @@ CV_IMPL void cvFindExtrinsicCameraParams2( const CvMat* objectPoints,
                   int useExtrinsicGuess )
 ```
 
+[findHomography()](https://github.com/opencv/opencv/blob/e268fdc0ed89be11ce2e6d7a8832254fc4b67ccc/modules/calib3d/src/fundam.cpp#L350) - opencv/modules/calib3d/src/fundam.cpp  
+```
+cv::Mat cv::findHomography( InputArray _points1, InputArray _points2,
+                            int method, double ransacReprojThreshold, OutputArray _mask,
+                            const int maxIters, const double confidence)
+```
+method: 最小中值法、RANSAC方法、最小二乘法 [ref](https://blog.csdn.net/luoshixian099/article/details/50217655)   
+
 [urbste/MLPnP_matlab_toolbox](https://github.com/urbste/MLPnP_matlab_toolbox) - The toolbox is a collection of PnP methods for Matlab. 有時間試試 
