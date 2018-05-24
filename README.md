@@ -20,5 +20,12 @@ bool solvePnP( InputArray _opoints, InputArray _ipoints,
 { ...
 ```
 
+[cvFindExtrinsicCameraParams2()](https://github.com/opencv/opencv/blob/e268fdc0ed89be11ce2e6d7a8832254fc4b67ccc/modules/calib3d/src/calibration.cpp#L969) - opencv/modules/calib3d/src/calibration.cpp  
+```
+CV_IMPL void cvFindExtrinsicCameraParams2( const CvMat* objectPoints,
+                  const CvMat* imagePoints, const CvMat* A,
+                  const CvMat* distCoeffs, CvMat* rvec, CvMat* tvec,
+                  int useExtrinsicGuess )
+```
 
 [urbste/MLPnP_matlab_toolbox](https://github.com/urbste/MLPnP_matlab_toolbox) - The toolbox is a collection of PnP methods for Matlab. 有時間試試 
