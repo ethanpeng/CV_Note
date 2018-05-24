@@ -28,6 +28,13 @@ CV_IMPL void cvFindExtrinsicCameraParams2( const CvMat* objectPoints,
                   int useExtrinsicGuess )
 ```
 
+[cvFindHomography()](https://github.com/opencv/opencv/blob/c0cde75d544122d25634241c88fc84edcb23eccb/modules/calib3d/src/compat_ptsetreg.cpp#L331) - opencv/modules/calib3d/src/compat_ptsetreg.cpp  
+```
+CV_IMPL int cvFindHomography( const CvMat* _src, const CvMat* _dst, CvMat* __H, int method,
+                              double ransacReprojThreshold, CvMat* _mask, int maxIters,
+                              double confidence)
+```
+
 [findHomography()](https://github.com/opencv/opencv/blob/e268fdc0ed89be11ce2e6d7a8832254fc4b67ccc/modules/calib3d/src/fundam.cpp#L350) - opencv/modules/calib3d/src/fundam.cpp  
 ```
 cv::Mat cv::findHomography( InputArray _points1, InputArray _points2,
