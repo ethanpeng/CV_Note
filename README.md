@@ -35,7 +35,7 @@ CV_IMPL int cvFindHomography( const CvMat* _src, const CvMat* _dst, CvMat* __H, 
                               double confidence)
 ```
 
-[findHomography()](https://github.com/opencv/opencv/blob/e268fdc0ed89be11ce2e6d7a8832254fc4b67ccc/modules/calib3d/src/fundam.cpp#L350) - opencv/modules/calib3d/src/fundam.cpp  
+[cv::findHomography()](https://github.com/opencv/opencv/blob/e268fdc0ed89be11ce2e6d7a8832254fc4b67ccc/modules/calib3d/src/fundam.cpp#L350) - opencv/modules/calib3d/src/fundam.cpp  
 ```
 cv::Mat cv::findHomography( InputArray _points1, InputArray _points2,
                             int method, double ransacReprojThreshold, OutputArray _mask,
