@@ -43,7 +43,7 @@ cv::Mat cv::findHomography( InputArray _points1, InputArray _points2,
 ```
 method: 最小中值法、RANSAC方法、最小二乘法 [ref](https://blog.csdn.net/luoshixian099/article/details/50217655)   
 
-[cvConvertPointsHomogeneous()](https://github.com/opencv/opencv/blob/c0cde75d544122d25634241c88fc84edcb23eccb/modules/calib3d/src/compat_ptsetreg.cpp#L432) - modules/calib3d/src/compat_ptsetreg.cpp - [doc](https://docs.opencv.org/2.4/modules/calib3d/doc/camera_calibration_and_3d_reconstruction.html#convertpointshomogeneous)  
+[cvConvertPointsHomogeneous()](https://github.com/opencv/opencv/blob/c0cde75d544122d25634241c88fc84edcb23eccb/modules/calib3d/src/compat_ptsetreg.cpp#L432) - modules/calib3d/src/compat_ptsetreg.cpp - [doc](https://docs.opencv.org/2.4/modules/calib3d/doc/camera_calibration_and_3d_reconstruction.html#convertpointshomogeneous) [doc2](https://docs.opencv.org/3.3.1/d9/d0c/group__calib3d.html#gafa5aa3f40a472bda956b4c27bec67438)  
 Converts points to/from homogeneous coordinates. - 轉換點 至 齊次座標
 ```c++
 CV_IMPL void cvConvertPointsHomogeneous( const CvMat* _src, CvMat* _dst )
