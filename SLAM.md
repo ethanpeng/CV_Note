@@ -1,8 +1,5 @@
 # SLAM
 
-### 影片
-[【SLAM】视觉SLAM高博十四讲](https://www.bilibili.com/video/av19397094/)  
-
 ### LSD SLAM
 [tum-vision/lsd_slam](https://github.com/tum-vision/lsd_slam)  
 [深入學習 LSD-SLAM – 1](https://blog.techbridge.cc/2017/03/18/lsd-slam-1/)  
@@ -23,3 +20,6 @@
 ### 討論
 [知乎 orb-slam在眾多SLAM方法中處於怎樣的地位？](https://www.zhihu.com/question/35116055) - 作者個人的一些看法, 附上kinect2上的視頻.  
 [ORB-SLAM vs. DSO: Possible to develop DSO to the same level?]() - 提到  it seems to be that ORB-SLAM(2) and DSO seem to be the two currently best (openly available) algorithms.
+
+### 視覺SLAM十四講
+[【SLAM】视觉SLAM高博十四讲](https://www.bilibili.com/video/av19397094/)  
