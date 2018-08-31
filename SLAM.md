@@ -23,3 +23,7 @@
 
 ### 視覺SLAM十四講
 [【SLAM】视觉SLAM高博十四讲](https://www.bilibili.com/video/av19397094/)  
+
+[三維重建6：綁架問題/SensorFusion/IMU+CV-小尺度SLAM](https://blog.csdn.net/wishchin/article/details/73484680)  
+蒙特卡洛估計器，即粒子濾波方法  
+[vio 入門概念](https://blog.csdn.net/datase/article/details/78682156)  
