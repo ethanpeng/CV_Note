@@ -27,6 +27,7 @@
 [Visual SLAM算法筆記](https://blog.csdn.net/mulinb/article/details/53421864)  
 [三維重建6：綁架問題/SensorFusion/IMU+CV-小尺度SLAM](https://blog.csdn.net/wishchin/article/details/73484680)  
 蒙特卡洛估計器，即粒子濾波方法  
+[三維重建7：Visual SLAM算法筆記](https://blog.csdn.net/wishchin/article/details/73511679)  
 [vio 入門概念](https://blog.csdn.net/datase/article/details/78682156)  
 [視覺慣性里程計Visual–Inertial Odometry(VIO)概述](https://www.cnblogs.com/hitcm/p/6327442.html)  
 filter-based  
