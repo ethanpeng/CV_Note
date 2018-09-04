@@ -1,7 +1,8 @@
 # SLAM
 ### 1. 導論
 #### 視覺SLAM十四講
-[【SLAM】视觉SLAM高博十四讲](https://www.bilibili.com/video/av19397094/)  
+[【SLAM】视觉SLAM高博十四讲 影片](https://www.bilibili.com/video/av19397094/)  
+[書本目錄](https://www.tenlong.com.tw/products/9787121311048)  
 
 #### 文章
 [Visual SLAM算法筆記](https://blog.csdn.net/mulinb/article/details/53421864)  
