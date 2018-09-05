@@ -27,7 +27,9 @@ filter-based
 松耦合: [ssf](https://github.com/ethz-asl/ethzasl_sensor_fusion)  
 optimization-based  
 
+[UCF Computer Vision 課程簡介](http://crcv.ucf.edu/courses/CAP5415/Fall2014/index.php)  
 [UCF Computer Vision](https://www.youtube.com/playlist?list=PLd3hlSJsX_ImKP68wfKZJVIPTd8Ie5u-9)  
+[UCF Computer Vision Video Lectures 2014 (部分中英字幕）](https://www.bilibili.com/video/av29974804/)  
 
 ### LSD SLAM
 [tum-vision/lsd_slam](https://github.com/tum-vision/lsd_slam)  
