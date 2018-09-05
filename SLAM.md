@@ -10,6 +10,10 @@ ch4
 
 特殊正交群SO(3)
 
+so(3) 3x3矩陣  
+se(3) 4x4矩陣  
+
+
 
 #### 文章
 [Visual SLAM算法筆記](https://blog.csdn.net/mulinb/article/details/53421864)  
@@ -23,6 +27,7 @@ filter-based
 松耦合: [ssf](https://github.com/ethz-asl/ethzasl_sensor_fusion)  
 optimization-based  
 
+[UCF Computer Vision](https://www.youtube.com/playlist?list=PLd3hlSJsX_ImKP68wfKZJVIPTd8Ie5u-9)  
 
 ### LSD SLAM
 [tum-vision/lsd_slam](https://github.com/tum-vision/lsd_slam)  
