@@ -8,6 +8,9 @@ ch4
 旋轉矩陣有約束（正交且行列式為1）,使得優化變得困難  
 李代數可以變成無約束優化  
 
+特殊正交群SO(3)
+
+
 #### 文章
 [Visual SLAM算法筆記](https://blog.csdn.net/mulinb/article/details/53421864)  
 [三維重建6：綁架問題/SensorFusion/IMU+CV-小尺度SLAM](https://blog.csdn.net/wishchin/article/details/73484680)  
