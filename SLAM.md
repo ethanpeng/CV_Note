@@ -2,6 +2,7 @@
 ### 1. 導論
 #### 視覺SLAM十四講
 [【SLAM】视觉SLAM高博十四讲 影片](https://www.bilibili.com/video/av19397094/)  
+[視覺slam十四講總結PPT](https://download.csdn.net/download/sinat_16615673/10493814?utm_source=bbsseo)  
 [gaoxiang12/slambook](https://github.com/gaoxiang12/slambook)  
 [書本目錄](https://www.tenlong.com.tw/products/9787121311048)  
 
@@ -33,6 +34,8 @@ optimization-based
 L4 看了一些  
 [UCF Computer Vision Video Lectures 2014 (部分中英字幕）](https://www.bilibili.com/video/av29974804/)  
 
+[泡泡机器人 - TA的视频](https://space.bilibili.com/38737757/#/)  
+[github.io - 圖像視覺："行人檢測任務之FHOG算子"](http://cwlseu.github.io/Feature-descriptor-fhog/)
 ### LSD SLAM
 [tum-vision/lsd_slam](https://github.com/tum-vision/lsd_slam)  
 [深入學習 LSD-SLAM – 1](https://blog.techbridge.cc/2017/03/18/lsd-slam-1/)  
@@ -60,6 +63,9 @@ L4 看了一些
 [OpenCV sfm - Camera Motion Estimation](https://docs.opencv.org/3.1.0/d5/dab/tutorial_sfm_trajectory_estimation.html)  
 [OpenCV sfm - Scene Reconstruction](https://docs.opencv.org/3.1.0/d4/d18/tutorial_sfm_scene_reconstruction.html)  
 
+## 2D Wave
+QT - Qwt  
+
 
 ### KCF
 [作者的首頁](http://www.robots.ox.ac.uk/~joao/circulant/)  
@@ -70,6 +76,8 @@ L4 看了一些
 [核化相关滤波器高速跟踪：KCF(2015PAMI)](https://zhuanlan.zhihu.com/p/26685032)  
 [KCF目标跟踪算法](https://www.jianshu.com/p/9aacd075a689)  
 [KCF目標跟蹤方法分析與總結](https://www.cnblogs.com/YiXiaoZhou/p/5925019.html)
+[Kernelized Correlation Filters (KCF) Tracking算法](https://blog.csdn.net/wanghanthu/article/details/53375393)  
+[Introduction to OpenCV Tracker](https://docs.opencv.org/3.1.0/d2/d0a/tutorial_introduction_to_tracker.html)  
 
 ### 傅立葉轉換
 [阿洲的程式教學 - 傅立葉轉換(Fourier Transform)](http://monkeycoding.com/?p=864)  
